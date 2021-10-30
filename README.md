@@ -15,7 +15,7 @@
 
 ## 데이터프레임
 
-**데이터프레임명은 'response'**로 해주세요! 
+**데이터프레임명은 response**로 해주세요! 
 ex) response = pd.DataFrame('kaggle_survey_2021_responses.csv')
 
 ## 설문지
